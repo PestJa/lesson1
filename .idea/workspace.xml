@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e382d61-5b67-4cc7-8d35-2bda50279f4a" name="Changes" comment="Что идет не так&#10;Еще разок и">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9e382d61-5b67-4cc7-8d35-2bda50279f4a" name="Changes" comment="Что идет не так&#10;Еще разок и" />
     <list id="53f0f3b5-de1e-4010-927b-3a9b59933d72" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640440881798</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Что идет не так&#10;Еще разок и">
+      <created>1641722218737</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641722218737</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
